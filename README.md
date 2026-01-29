@@ -33,5 +33,3 @@ I compared five algorithms:
   - `Matplotlib` & `Seaborn` (Visualization)
   - `Scikit-learn` (Machine Learning)
   - `Imbalanced-learn` (SMOTE)
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME_HERE/Stroke-Risk-Analysis.git](https://github.com/YOUR_USERNAME_HERE/Stroke-Risk-Analysis.git)
